@@ -32,4 +32,4 @@ main.cpp: The main application logic, including the user interface and menu syst
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/3idey/quran-playlist-manager.git
+   git clone https://github.com/3idey/-Simple-Quran-Player.git
