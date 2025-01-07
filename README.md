@@ -1,6 +1,7 @@
 # Quran Playlist Manager
 
 The Quran Playlist Manager is a C++ application designed to manage and organize playlists of Quranic surahs. It allows users to create playlists, add or remove surahs, update the order of surahs, and play surahs with basic playback controls.
+
 #Code Structure
 DLL.h: Contains the implementation of a doubly linked list used to manage playlists and surahs.
 
