@@ -47,13 +47,7 @@ public:
               << getaudiopath() << endl;
     }
 
-    /*string operator << (const surah& s) const
-    {
-
-        return   getname() + "        "
-             + gettype() + "        "
-              + getaudiopath();
-    }*/
+    
 
 };
 #endif
