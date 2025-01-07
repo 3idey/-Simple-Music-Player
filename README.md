@@ -27,9 +27,10 @@ main.cpp: The main application logic, including the user interface and menu syst
 
 - A C++ compiler (e.g., GCC, Clang, or MSVC).
 - Windows OS (for audio playback using `winmm.lib`).
+- Audio must be in WAV format
 
 ### Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/3idey/-Simple-Quran-Player.git
+   git clone https://github.com/3idey/Simple-Quran-Player.git
