@@ -1,0 +1,160 @@
+# depslib dependency file v1.0
+1731351624 source:d:\new folder (2)\project 2\main.cpp
+	<iostream>
+	"DLL.h"
+	"playlist.h"
+	"playlist.h"
+	"surah.h"
+
+1731352679 d:\new folder (2)\project 2\dll.h
+	<iostream>
+
+1731352764 d:\new folder (2)\project 2\playlist.h
+	<iostream>
+	"DLL.h"
+	"surah.h"
+
+1731352679 d:\new folder (2)\project 2\surah.h
+	<iostream>
+	<string>
+
+1733929451 source:c:\users\hp\onedrive\desktop\project 2\main.cpp
+	<iostream>
+	"playlists.h"
+	"playlist.h"
+	"DLL.h"
+	<windows.h>
+	<mmsystem.h>
+	<fstream>
+	<sstream>
+
+1734252954 c:\users\hp\onedrive\desktop\project 2\dll.h
+	<iostream>
+
+1734253089 c:\users\hp\onedrive\desktop\project 2\playlist.h
+	<iostream>
+	<conio.h>
+	"DLL.h"
+	"surah.h"
+	<windows.h>
+	<mmsystem.h>
+
+1734253072 c:\users\hp\onedrive\desktop\project 2\surah.h
+	<iostream>
+	<string>
+
+1734029230 c:\users\hp\onedrive\desktop\project 2\playlists.h
+	<iostream>
+	"playlist.h"
+	"DLL.h"
+
+1733335238 source:c:\users\hp\desktop\project 2-1\project 2\main.cpp
+	<iostream>
+	"playlists.h"
+	"playlist.h"
+	"DLL.h"
+	<windows.h>
+	<mmsystem.h>
+
+1733335414 c:\users\hp\desktop\project 2-1\project 2\playlists.h
+	<iostream>
+	"playlist.h"
+	"DLL.h"
+
+1733332574 c:\users\hp\desktop\project 2-1\project 2\playlist.h
+	<iostream>
+	"DLL.h"
+	"surah.h"
+	<windows.h>
+	<mmsystem.h>
+
+1733333564 c:\users\hp\desktop\project 2-1\project 2\dll.h
+	<iostream>
+
+1733316384 c:\users\hp\desktop\project 2-1\project 2\surah.h
+	<iostream>
+	<string>
+
+1733344652 source:c:\users\hp\onedrive\desktop\project (2)\project 2\project 2\main.cpp
+	<iostream>
+	"playlists.h"
+	"playlist.h"
+	"DLL.h"
+	<windows.h>
+	<mmsystem.h>
+
+1733335414 c:\users\hp\onedrive\desktop\project (2)\project 2\project 2\playlists.h
+	<iostream>
+	"playlist.h"
+	"DLL.h"
+
+1733345372 c:\users\hp\onedrive\desktop\project (2)\project 2\project 2\playlist.h
+	<iostream>
+	"DLL.h"
+	"surah.h"
+	<windows.h>
+	<mmsystem.h>
+
+1733336002 c:\users\hp\onedrive\desktop\project (2)\project 2\project 2\dll.h
+	<iostream>
+
+1733316384 c:\users\hp\onedrive\desktop\project (2)\project 2\project 2\surah.h
+	<iostream>
+	<string>
+
+1733344652 source:c:\users\hp\desktop\project (2)\project (2)\project 2\project 2\main.cpp
+	<iostream>
+	"playlists.h"
+	"playlist.h"
+	"DLL.h"
+	<windows.h>
+	<mmsystem.h>
+
+1733335414 c:\users\hp\desktop\project (2)\project (2)\project 2\project 2\playlists.h
+	<iostream>
+	"playlist.h"
+	"DLL.h"
+
+1733345372 c:\users\hp\desktop\project (2)\project (2)\project 2\project 2\playlist.h
+	<iostream>
+	"DLL.h"
+	"surah.h"
+	<windows.h>
+	<mmsystem.h>
+
+1733336002 c:\users\hp\desktop\project (2)\project (2)\project 2\project 2\dll.h
+	<iostream>
+
+1733316384 c:\users\hp\desktop\project (2)\project (2)\project 2\project 2\surah.h
+	<iostream>
+	<string>
+
+1733681273 source:c:\users\hp\onedrive\desktop\project (2))\project 2\main.cpp
+	<iostream>
+	"playlists.h"
+	"playlist.h"
+	"DLL.h"
+	<windows.h>
+	<mmsystem.h>
+	<fstream>
+	<sstream>
+
+1733489120 c:\users\hp\onedrive\desktop\project (2))\project 2\playlists.h
+	<iostream>
+	"playlist.h"
+	"DLL.h"
+
+1733681625 c:\users\hp\onedrive\desktop\project (2))\project 2\playlist.h
+	<iostream>
+	"DLL.h"
+	"surah.h"
+	<windows.h>
+	<mmsystem.h>
+
+1733400080 c:\users\hp\onedrive\desktop\project (2))\project 2\dll.h
+	<iostream>
+
+1733316384 c:\users\hp\onedrive\desktop\project (2))\project 2\surah.h
+	<iostream>
+	<string>
+
