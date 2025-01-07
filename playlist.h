@@ -185,6 +185,4 @@ public:
 
 };
 #endif
-//C:\\Users\\HP\\OneDrive\\Desktop\\PROJECT 2\\elnas.WAV
-//C:\\Users\\HP\\OneDrive\\Desktop\\PROJECT 2\\eleklash.WAV
-//C:\\Users\\HP\\OneDrive\\Desktop\\PROJECT 2\\elfalq.WAV
+
